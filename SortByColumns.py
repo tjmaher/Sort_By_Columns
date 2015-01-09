@@ -1,8 +1,9 @@
-#   Thomas F. Maher, Jr. ('T.J.')
-#   tj.maher@gmail.com 
-#  	Senior QA Lead / BSCS / Masters of Software Engineering
+#   	Thomas F. Maher, Jr. ('T.J.')
+#   	tj.maher@gmail.com 
+# 	Senior QA Lead / BSCS / Masters of Software Engineering
+#
 #  	Write a program that takes as its first argument the name of an input file 
-#  (such as the attached testfile.txt), a second argument is a primary column to sort
+#  	(such as the attached testfile.txt), a second argument is a primary column to sort
 # 	by in ascending order, and a third argument as a secondary column to sort by 
 #	(also in ascending order).  Null values or empty strings should always be last 
 #	in the sort order. 
@@ -12,7 +13,7 @@
 #   
 # 	> python SortByColumns.py testfile.txt Gender Name 
 #
-# 	The output would be:
+# 	The output file would be:
 #
 #  	ID		Name	Gender	Age
 #  	EMP5	Dana	F	
