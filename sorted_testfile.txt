@@ -1,0 +1,7 @@
+ID	Name	Gender	Age
+EMP1	Jim	M	23
+EMP2	Sally	F	30
+EMP3	David	M	19
+EMP4	Morris	M	40
+EMP5	Dana	F	
+EMP6	Harold	M	100
