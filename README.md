@@ -14,3 +14,8 @@ the files 'SortByColumns.py' and 'textfile.txt' you input on the command line:
   	ID		Name	Gender	Age
   	EMP5	Dana	F	
   	EMP2	Sally	F	30
+  	
+Demonstrates:
+* How to read files into a Dictionary with DictReader from a tab delimited file
+* How to sort the Dictionary
+* How to output a dictionary to a table in an output file using DictWriter
